@@ -1,0 +1,362 @@
+.box h1{
+    font-family: Verdana;
+    text-align: center;
+    margin-top: -100px;
+    margin-right: 700px;
+}
+
+.header{
+    margin-left: 100px;
+}
+
+h1{
+    margin-top: 65px;
+    font-size: 30px;
+    font-family: verdana;
+    font-weight: bolder;
+}
+
+h3{
+    font-size: 25px;
+    font-family: Verdana;
+    margin-top: 75px;
+}
+
+h4{
+    font-size: 22px;
+font-family: Verdana, Tahoma, sans-serif;
+    margin-top: 75px; 
+}
+
+.box p{
+    margin-left: 140px;
+    font-size: 25px;
+    margin-top: -24px;
+    font-family: verdana;
+}
+
+h1 span{
+    color: #2786fa;
+}
+
+#container{
+    width: 100%;
+    height: 180px;
+    border-bottom: 5px solid whitesmoke;
+    border-left: 3px solid whitesmoke;
+    border-top: 3px solid whitesmoke;
+    border-right: 5px solid whitesmoke;
+}
+
+.container2{
+    margin-left: 100px;
+}
+
+.box{
+    margin-left: 100px;
+    margin-top: -25px;
+}
+
+.sp1{
+    font-size: 150px;
+    font-family: Verdana;
+    margin-left: 15px;
+    color: #1a1801e3;
+    margin-top: -15px;
+}
+
+.sa1{
+
+    font-size: 150px;
+    color:  #2786fa;
+    font-family: Verdana;
+    margin-left: -45px;
+}
+
+form{
+    margin-top: -45px;
+    margin-left: 35px;
+}
+
+input[type="text"]{
+    transform: translate(900px,-80px);
+    width: 200px;
+    height: 20px;
+    border-color: #2786fa;
+}
+
+input[type="text"]:hover{
+    border-color: black;
+}
+
+form[action="get"] input[type="submit"]{
+    transform: translate(894px,-80px);
+    border-radius: none;
+    height: 28px;
+    width: 70px;
+    background-color: #2786fa;
+    border: none;
+    color: white;
+    font-family: Verdana;
+}
+
+form[action="get"] input[type="submit"]:hover{
+    background-color: blue;
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin-top: 35px;
+    margin: 5px;
+    transform: translate(700px,-25px);
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #2786fa;
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+nav ul li a:hover{
+    color: blue;
+}
+
+
+hr{
+    margin-top: -10px;
+}
+
+.container2 p a{
+    text-decoration: none;
+    color: black;
+}
+
+.container2 p a:hover{
+    background-color: rgba(248, 255, 145, 0.95);
+}
+
+.p1{
+    margin-top: -5px;
+    font-size: 18px;
+    color: grey;
+}
+
+.p2 img{
+    float: right;
+    margin-top: -75px;
+    margin-right: 200px;
+    width: 400px;
+    height: 340px;
+}
+
+.container2 .p2{
+    margin-top: 60px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p3{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p4{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.p5{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p5 img{
+    float: right;
+    margin-top: -160px;
+    margin-right: 220px;
+}
+
+
+.p6{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.p7{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p7 img{
+    width: 1000px;
+    margin-top: 60px;
+}
+
+.fr{
+    margin-top: 35px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tree{
+    margin-top: 75px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#free{
+    margin-top: 75px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.green{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.few{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.few img{
+    float: right;
+    margin-top: -80px;
+    margin-right: 150px;
+}
+
+.footer{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    margin-top: 150px;
+}
+
+form p{
+    font-size: 23px;
+    font-family:  verdana;
+    margin-top: 75px;
+}
+
+form p button{
+    background-color: #2786fa;
+    font-size: 20px;
+    border: none;
+    color: white;
+    width: 50px;
+}
+
+form div{
+    float: right;
+    margin-right: 350px;
+    margin-top: -49px;
+}
+
+form input[type="search"]{
+    margin-left: 220px;
+    margin-top: 30px;
+    width: 440px;
+    border-color: #2786fa;
+}
+
+form input[type="search"]:hover{
+    border-color: black;
+}
+
+
+form input[type="submit"]{
+    background-color: #2786fa;
+    border: none;
+    width: 70px;
+    height: 23px;
+    margin-left: -30px;
+    color: white;
+    font-family: Verdana;
+    font-size: 15px;
+}
+
+form input[type="submit"]:hover{
+    background-color: blue;
+}
+
+.wert{
+    font-size: 23px;
+    font-family: verdana;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.a{
+    font-size: 14px;
+    font-family: verdana;
+    margin-left: 30px;
+}
+
+.a a{
+    text-decoration: none;
+    color: #2786fa;
+}
+
+.trust{
+    float: right;
+    margin-top: -259px;
+    margin-right: 530px;
+}
+
+.queen{
+    font-size: 23px;
+    font-family: Verdana;
+}
+
+.b a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #2786fa;
+    font-family: Verdana;
+}
+
+.truth{
+    float: right;
+    margin-left: 500px;
+    margin-right: 270px;
+    margin-top: -280px;
+}
+
+.king{
+    font-size: 23px;
+    font-family: Verdana;
+}
+
+.c a{
+    text-decoration: none;
+    color: #2786fa;
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+.c img{
+    width: 20px;
+    height: 20px;
+}
+
+span button{
+    float: right;
+    margin-top: 35px;
+    border: none;
+    background-color: #2786fa;
+    color: white;
+    margin-right: 5px;
+    height: 25px;
+}
+
+span button a{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana;
+    font-size: 14px;
+}
